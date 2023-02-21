@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>info.png</file>
+    <file>lousao.jpg</file>
+  </qresource>
+</RCC>
